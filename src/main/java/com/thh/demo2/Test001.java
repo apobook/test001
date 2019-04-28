@@ -41,7 +41,6 @@ public class Test001 {
 
 		LocalDateTime now = LocalDateTime.now();
 		System.out.println(now);
-		String str = new String("test");
 	}
 
 	@Test
