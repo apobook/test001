@@ -17,7 +17,6 @@ public class Person01 implements Person, Person002 {
 
 	public Person01() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public Person01(Integer age) {
